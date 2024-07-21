@@ -1,3 +1,3 @@
 module github.com/mashinolol/auth-service-grpc/api-gateway
 
-go 1.21.6
+go 1.18
