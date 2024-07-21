@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	pb "github.com/mashinolol/auth-service-grpc/proto/"
+	pb "github.com/mashinolol/auth-service-grpc/proto"
 )
 
 const (
